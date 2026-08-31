@@ -35,7 +35,7 @@ export default function AboutPage() {
         <div className="order-1 lg:order-2 lg:col-span-4 lg:col-start-9 lg:self-end">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="https://i.ibb.co/zWv933H3/IMG-0224.jpg"
+            src="/IMG_0224.JPG"
             alt="Portrait of Heesun Jang"
             className="mx-auto aspect-[3/4] w-full max-w-xs object-cover sm:max-w-sm lg:max-w-none"
           />
