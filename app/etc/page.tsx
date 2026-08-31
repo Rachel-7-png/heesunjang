@@ -41,7 +41,7 @@ const photoData: Photo[] = [
   { url: '/IMG_3866.JPG', location: 'Furore', date: '2026.04.05' },
   { url: '/IMG_2934.jpg', location: 'Roma', date: '2026.04.04' },
   { url: '/IMG_9154.JPG', location: 'Roma', date: '2026.04.04' },
-  { url: '/vatican.JPG', location: 'Vatican City', date: '2026.04.04' },
+  { url: '/vatican.jpg', location: 'Vatican City', date: '2026.04.04' },
   { url: '/IMG_0940.jpeg', location: "Fisherman's Bastion", date: '2026.03.30' },
   {
     url: '/IMG_0166.jpeg',
